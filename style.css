@@ -173,7 +173,7 @@
                       display: flex;
                       justify-content: center;
                       align-items: center;
-                      height: 200px;
+                      height: 300px;
                       width: 100%;
                     }
                         .grupo-2 div{
@@ -181,7 +181,7 @@
                             flex-flow: column nowrap;
                             justify-content: center;
                             align-items: center;
-                            height: 300px;
+                            height: 100px;
                             background-color:rgba(255, 104, 35, 0.788); 
                             border-top: solid 1px rgb(72, 255, 0);
                             border-bottom: solid 1px rgb(72, 255, 0);
