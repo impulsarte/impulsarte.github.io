@@ -109,8 +109,8 @@
                         animation-name: avion;
                         animation-iteration-count: infinite;
                         animation-delay: .3s;
-                        animation-duration: 3s;
-                        animation-timing-function: ;
+                        animation-duration: 2.5s;
+                        animation-timing-function: ease;
                     }
                     @keyframes avion {
                         0%{
